@@ -1,0 +1,21 @@
+coding assignment for edmodo!
+
+Credits: Matthew Harrison, mattown@gmail.com
+
+
+
+Directions
+
+
+To use this software simply run this on the command line
+
+
+$ python3 fileloader.py <absolute-path-to-file>
+
+e.g.
+
+python3 fileloader.py example_file.txt
+
+
+
+This should load the file to memory and then it will prompt you to enter in comma seperated IDs

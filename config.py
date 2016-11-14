@@ -1,0 +1,6 @@
+allowed_quotes = [
+    '“',
+    '”',
+    '"'
+]
+delimiter = " "
